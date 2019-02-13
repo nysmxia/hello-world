@@ -1,3 +1,3 @@
 # hello-world
 study
-lets write something. 
+got it!
